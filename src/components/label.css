@@ -1,0 +1,12 @@
+.label {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.labeltext {
+    margin-left: 15px;
+    font-size: 18px;
+    color: #F9F9F9;
+}

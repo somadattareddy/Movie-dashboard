@@ -1,0 +1,103 @@
+.Display1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 205px;
+    height: 125px;
+    border-radius: 12px;
+    background-size: cover;
+    margin-top: 30px;
+    margin-left: 35px;
+}
+
+.Topbar1 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 12px;
+    padding-left: 10px;
+}
+
+.info1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 12px;
+}
+
+.actions1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+}
+
+.Add1 {
+    width: 55px;
+    height: 40px;
+    border-radius: 8px;
+    background: rgba(249, 249, 249, 0.2);
+    backdrop-filter: blur(10px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    border: none;
+}
+
+.addicon1 {
+    border: 4px solid rgba(249, 249, 249, 1);
+    width: 17px;
+    height: 17px;
+
+    /* F9F9F9 */
+    border: 4px solid #F9F9F9;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.Watch1 {
+    width: 125px;
+    height: 40px;
+    border-radius: 8px;
+    background: rgba(0, 185, 174, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    border: none;
+}
+
+.MovieTitle1 {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #F9F9F9;
+}
+
+.EpisodeCount1 {
+    color: rgba(249, 249, 249, 0.7);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.Genre1 {
+    color: rgba(249, 249, 249, 0.7);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.buttontexty {
+    color: #16181E;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}

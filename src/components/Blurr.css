@@ -1,0 +1,17 @@
+.blurgen {
+    width: 210px;
+    height: 99px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.texty {
+    font-size: 18px;
+    color: #F9F9F9;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}

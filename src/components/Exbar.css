@@ -1,0 +1,25 @@
+.barname {
+    font-size: 24px;
+    color: #F9F9F9;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-right: 21px;
+}
+
+.exbar {
+    display: flex;
+    flex-direction: row;
+    margin-top: 60px;
+    margin-left: 35px;
+    margin-right: 39px;
+    align-items: center;
+}
+
+.extext {
+    font-size: 15px;
+    color: rgba(249, 249, 249, 0.67);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: 11px;
+}
