@@ -8,5 +8,8 @@ https://opalescent-cold-17f.notion.site/Movie-Dashboard-Documantation-52a9fa5510
 
 In the project directory, you can run:
 
+### `npm i`
+To install necessary modules.
+
 ### `npm run start`
 To start the project on the local environment [http://localhost:3000](http://localhost:3000)
