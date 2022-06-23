@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://opalescent-cold-17f.notion.site/Movie-Dashboard-Documantation-52a9fa5510b44d27b81b4af909333726
 
+https://poetic-dolphin-f9ebb3.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
